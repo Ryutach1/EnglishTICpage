@@ -17,7 +17,7 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(176, 176, 176, 0.591); /* oscurece el fondo */
+  background: rgba(56, 56, 56, 0.591); /* oscurece el fondo */
   z-index: -1;
 }
 
